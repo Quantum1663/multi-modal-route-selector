@@ -1,0 +1,99 @@
+*Software Requirements Specification (SRS) for Multi-Modal Route Selector*
+
+## 1. Introduction
+### 1.1 Purpose
+The Multi-Modal Route Selector aims to optimize cross-border shipping routes by integrating multiple transport modes (road, rail, sea, and air) with real-time data and AI-driven decision-making.
+
+### 1.2 Scope
+- Route optimization based on cost, time, and efficiency.
+- Integration of real-time data (traffic, weather, customs clearance).
+- AI-powered predictive analysis for potential delays and route adjustments.
+- User-friendly interface for logistics planners and businesses.
+- *Blockchain-Enabled Transparency* – Immutable records for logistics transactions.
+- *Sustainability Optimization* – Carbon footprint tracking and eco-friendly route selection.
+- *Integrated Supply Chain Financing* – Dynamic credit terms and payment solutions.
+
+### 1.3 Definitions, Acronyms, and Abbreviations
+- *AI* – Artificial Intelligence
+- *ML* – Machine Learning
+- *ETA* – Estimated Time of Arrival
+- *API* – Application Programming Interface
+
+### 1.4 References
+- Industry research papers
+- APIs for logistics and real-time data
+
+## 2. Existing Solutions & Their Limitations
+### 2.1 Current Market Solutions
+- *Flexport* – Global freight forwarding platform.
+- *FourKites* – Real-time supply chain visibility.
+- *Project44* – Predictive analytics for shipment tracking.
+
+### 2.2 Identified Limitations
+- Lack of AI-driven adaptive routing.
+- High costs for small-scale businesses.
+- Limited cross-border compliance integration.
+- Lack of real-time alternative route suggestions.
+
+## 3. Proposed Solution & Unique Selling Proposition (USP)
+### 3.1 Core Features
+- AI-driven real-time route optimization.
+- Multi-modal integration for seamless logistics.
+- Cost-aware route planning with predictive risk assessment.
+- User-friendly dashboard for better decision-making.
+- *Blockchain-Enabled Transparency* – Secure and tamper-proof logistics records.
+- *Dynamic Compliance Management* – Continuous updates on trade regulations.
+- *Sustainability Optimization* – Eco-friendly routing and emissions tracking.
+- *Predictive Analytics for Demand Forecasting* – AI-driven market trend analysis.
+- *Integrated Supply Chain Financing Options* – In-platform financial support.
+
+### 3.2 Unique Selling Proposition
+- *AI-Powered Decision Making* – Intelligent route adjustments based on live data.
+- *Predictive Risk Analysis* – Anticipating disruptions and suggesting proactive solutions.
+- *Multi-Modal Efficiency* – Seamless integration of different transport modes.
+- *Real-Time Cost Optimization* – Dynamic cost calculation based on market trends.
+- *Blockchain Security* – Transparent and secure logistics transactions.
+- *Eco-Friendly Logistics* – Carbon-conscious route recommendations.
+- *Integrated Financing* – Support for cross-border financial transactions.
+
+## 4. System Architecture
+### 4.1 High-Level Design
+- Data Collection Layer (Traffic, Weather, Customs APIs)
+- AI Processing Layer (Predictive models for route selection)
+- Blockchain Layer (Immutable transaction records)
+- User Interface (Web-based dashboard for route selection)
+
+## 5. Functional & Non-Functional Requirements
+### 5.1 Functional Requirements
+- User authentication and role management.
+- API integration for real-time data.
+- AI model for route prediction and cost optimization.
+- Interactive dashboard for visualization.
+- Blockchain integration for logistics transparency.
+
+### 5.2 Non-Functional Requirements
+- High-speed processing for real-time recommendations.
+- Scalable cloud-based architecture.
+- Secure data handling and encryption.
+
+## 6. Technology Stack
+- *Backend* – Node.js/Python
+- *Database* – PostgreSQL (for geospatial data)
+- *AI/ML* – TensorFlow/PyTorch
+- *Frontend* – React.js
+- *Blockchain* – Hyperledger or Ethereum
+- *APIs* – Google Maps, Weather APIs, Customs Data APIs
+
+## 7. Testing & Validation
+- Simulated real-world logistics scenarios.
+- Performance testing for response time and scalability.
+- Accuracy testing for AI-driven predictions.
+- Security testing for blockchain data integrity.
+
+## 8. Deployment Plan
+- Initial prototype for LogiTHON 2025.
+- Cloud-based hosting for scalability.
+- Continuous improvement based on real-world feedback.
+
+## 9. Conclusion
+The Multi-Modal Route Selector is a groundbreaking AI-powered logistics tool designed to revolutionize cross-border shipping through intelligent automation and optimization. With blockchain transparency, sustainability tracking, and financial integration, this solution sets a new industry standard.

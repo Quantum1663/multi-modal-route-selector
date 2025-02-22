@@ -1,0 +1,45 @@
+**Roadmap & Workflow for Multi-Modal Route Selector**
+
+## **Phase 1: Research & Planning**
+- ✅ **Finalize Problem Statement & USP**
+- ✅ **Market & Competitor Analysis**
+- ✅ **Dataset & API Research**
+- ✅ **Roadmap & Workflow Creation**
+
+## **Phase 2: System Design**
+- 🔄 **Software Development Life Cycle (SDLC) (Current Step)**
+- 🔄 **High-Level Design (HLD) (Current Step)**
+- ✅ **Low-Level Design (LLD)**
+
+## **Phase 3: Data Collection & Processing**
+- Data ingestion from APIs & datasets
+- Data cleaning and preprocessing pipeline
+- Data storage strategy (DB schema, indexing)
+
+## **Phase 4: Core Algorithm Development**
+- Multi-modal route optimization algorithm
+- AI-powered predictive analytics
+- Blockchain-based compliance tracking
+
+## **Phase 5: Backend & API Development**
+- Setting up API endpoints
+- Integrating authentication & security
+- Implementing real-time data updates
+
+## **Phase 6: Frontend Development**
+- UI/UX design for interactive visualization
+- Dashboard for route selection & tracking
+
+## **Phase 7: Testing & Optimization**
+- Unit testing & integration testing
+- Performance benchmarking
+- Security & compliance checks
+
+## **Phase 8: Finalization & Deployment**
+- Hosting & infrastructure setup
+- Final testing & bug fixes
+- Demo preparation & presentation strategy
+
+---
+This roadmap provides a structured approach for systematically developing the Multi-Modal Route Selector, ensuring efficient execution and tracking progress towards the final goal.
+

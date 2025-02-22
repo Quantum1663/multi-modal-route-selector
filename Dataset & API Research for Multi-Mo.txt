@@ -1,0 +1,56 @@
+**Dataset & API Research for Multi-Modal Route Selector**
+
+## 1. **Dataset Requirements**
+### 1.1 Historical Logistics Data
+- Shipment records (origin, destination, transport mode, cost, duration)
+- Traffic patterns
+- Weather impact on routes
+- Customs clearance time
+
+### 1.2 Real-Time Data Sources
+- **Traffic Data**: Google Maps, OpenStreetMap, TomTom APIs
+- **Weather Data**: OpenWeather, NOAA, WeatherStack
+- **Customs Regulations**: Government portals, TradeLens API
+- **Shipping & Logistics Data**: Maersk APIs, DHL APIs, FedEx APIs
+- **Fuel Price Index**: GlobalPetrolPrices API
+
+## 2. **APIs for Data Integration**
+### 2.1 Traffic & Transportation APIs
+- **Google Maps API** – Real-time traffic and routing
+- **OpenStreetMap API** – Open-source geospatial data
+- **TomTom Traffic API** – High-accuracy traffic congestion data
+
+### 2.2 Weather & Environmental APIs
+- **OpenWeather API** – Current & forecast weather conditions
+- **NOAA API** – Weather and climate data
+- **WeatherStack API** – Historical weather impact
+
+### 2.3 Customs & Compliance APIs
+- **TradeLens API** – Blockchain-based trade compliance data
+- **Gov Portals** – Customs clearance rules
+- **HS Code Lookup API** – Harmonized System code validation
+
+### 2.4 Logistics & Shipping APIs
+- **DHL API** – Shipment tracking and estimated delivery
+- **FedEx API** – Freight and cargo management
+- **Maersk API** – Ocean freight schedules
+
+### 2.5 Cost & Financial APIs
+- **Fuel Price API** – Live fuel cost fluctuations
+- **Currency Exchange API** – Conversion rates for cross-border shipments
+- **Freight Rate API** – Real-time shipping price calculations
+
+## 3. **Challenges & Considerations**
+- **Data Accuracy**: Ensuring reliable sources to minimize prediction errors.
+- **API Limitations**: Handling rate limits and API costs.
+- **Data Privacy**: Compliance with GDPR and trade regulations.
+- **Latency**: Optimizing response times for real-time route adjustments.
+
+## 4. **Next Steps**
+- Finalize key APIs for implementation.
+- Develop API request structure and authentication methods.
+- Build data preprocessing pipeline for analytics.
+- Test API response times and reliability.
+
+---
+This document outlines the required datasets and APIs for our Multi-Modal Route Selector, ensuring accurate, real-time decision-making for optimized logistics planning.
