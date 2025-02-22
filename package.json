@@ -1,15 +1,16 @@
-
 {
   "name": "logithon",
   "version": "1.0.0",
   "main": "index.js",
- "scripts": {
-  "start": "node index.js",
-  "build": "echo 'No build step required'"
-}
-,
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step required'"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
